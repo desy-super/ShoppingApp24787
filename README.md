@@ -29,3 +29,6 @@ Login Details:
 - **Username:** mor_2314
 - **Password:** 83r5^_
 
+- **Username:** johnd
+- **Password:** m38rmF$
+
